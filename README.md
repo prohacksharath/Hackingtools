@@ -1,5 +1,4 @@
 ## Now you can download the most powerful tools using this simple script
-### Screenshot
 
 ### Installations
 ```
