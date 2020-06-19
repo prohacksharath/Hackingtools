@@ -3,7 +3,7 @@
 
 ### Installations
 ```
-git clone https://github.com/king-hacking/King-Hacking.git
-cd King-Hacking
-bash King-Tools.sh
+git clone https://github.com/prohacksharath/Hackingtools.git
+cd sharath hacking tools
+bash sharath hacking tools.sh
 install tols by selecting tools 
